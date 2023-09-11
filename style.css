@@ -1,0 +1,47 @@
+body{
+    width: 70%;
+    margin: auto;
+    background: rgb(196, 192, 197);
+}
+.year{
+    text-align: left;
+}
+.Census{
+    width: 420px;
+}
+h1,h2,h3{
+    color: tomato;
+    font-family: sans-serif;
+    margin-top: 1.5em;
+}
+h1{
+    font-size: 32px;
+}
+table,td,th,tr{
+    border: 2px solid black;
+}
+figcaption{
+    font-style: italic;
+}
+figure{
+    float: right;
+}
+h1,h2{
+    text-align: center;
+}
+.up-link{
+    text-decoration: none;
+    color: black;
+}
+.wrapper-link{
+    margin-top: 100px;
+    margin-left: 50%;
+    margin-bottom: 100px;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+h1,h2,h3{
+    color: red;
+}
